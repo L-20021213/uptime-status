@@ -24,7 +24,7 @@ function App() {
         </div>
         <div id='footer'>
           <p>基于 <Link to='https://uptimerobot.com/' text='UptimeRobot' /> 接口制作，检测频率 5 分钟</p>
-          <p class="copyright">Copyright © <script>document.write(new Date().getFullYear());</script> <a href="https://savalone.com">Sianx's Blog</a></p>
+          <p>&copy; 2023 <Link to='https://sianx.com/' text='BLOG' /></p>
         </div>
       </div>
     </>
