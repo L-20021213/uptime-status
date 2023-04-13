@@ -19,7 +19,7 @@ window.Config = {
   Navi: [
     {
       text: 'Blog',
-      url: 'https://www.sianx.com/'
+      url: 'https://www.siax.cn/'
     },
     {
       text: 'GitHub',
